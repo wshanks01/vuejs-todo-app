@@ -1,7 +1,6 @@
 # vue-todo-app
 
-> A Vue.js project
-A simple Todo app using a Scotch.io tutorial. Tutorial was sparse and missing some info however that required a bit of debugging on my end which helped my understanding of Vue.js
+> A simple Todo app using a Scotch.io tutorial. Tutorial was sparse and missing some info however that required a bit of debugging on my end which helped my understanding of Vue.js
 
 ## Build Setup
 
